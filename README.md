@@ -4,7 +4,7 @@
 
 **MSc Molecular Genetics & Biotechnology**
 
-🇳🇱 Leiden, Netherlands · 🇩🇰 Kongens Lyngby, Denmark *(current)*
+🇧🇪 Antwerp, Belgium · 🇳🇱 Leiden, Netherlands · 🇩🇰 Kongens Lyngby, Denmark *(current)*
 
 [![Email](https://img.shields.io/badge/Email-schrauwenthomas96%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:schrauwenthomas96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Schrauwen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-schrauwen-b5676692/)
@@ -42,8 +42,7 @@ Life-science professional with four years of industry and academic experience in
 **Technical University of Denmark (DTU)** · Dept. of Bioengineering · *Mar 2026 – Present* · Kongens Lyngby, Denmark
 > Supervised by Dr. Timothy Jenkins 
 
-- Designing nanobodies de novo against migraine-associated GPCRs using generative AI, integrating protein language models and structure-based deep learning for candidate generation and in silico evaluation.
-- Utilising AlphaFold, PDB, and HPC infrastructure to support structure-guided binder design workflows.
+- Designing de novo nanobodies against migraine-associated GPCRs using generative AI, integrating protein language models and structure-based deep learning for candidate generation and in silico and in vitro evaluation.
 
 ### 🧬 MSc Research Intern — Bioinformatics
 **Institute of Biology Leiden (IBL), Leiden University** · *Jan 2025 – Jul 2025* · Leiden, Netherlands
@@ -96,7 +95,7 @@ Life-science professional with four years of industry and academic experience in
 
 ### 🌍 Languages
 
-`Dutch — Native` &nbsp; `English — Fluent` &nbsp; `French — Proficient`
+`Dutch — Native` &nbsp; `English — Fluent` &nbsp; `French — Intermediate`
 
 ---
 
