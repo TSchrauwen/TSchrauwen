@@ -92,7 +92,7 @@ My name is Thomas Schrauwen, I have four years of industry experience in stem ce
 | **Analytics** | Gel & capillary electrophoresis, immunofluorescence, flow cytometry, fluorescent/luminescent assays |
 | **Instrumentation** | GC, HPLC, AAS, AES, spectrophotometry, 2D/3D cell imaging |
 | **Chromatography** | Size-exclusion, hydrophobic interaction, ion-exchange |
-| **Computational** | scRNA-seq analysis, protein-ligand docking, HPC cluster usage |
+| **Computational** | scRNA-seq analysis, protein-ligand docking, Protein Design, HPC cluster usage |
 
 ### 🌍 Languages
 
