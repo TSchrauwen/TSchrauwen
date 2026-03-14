@@ -77,7 +77,8 @@ My name is Thomas Schrauwen, I have four years of industry experience in stem ce
 | Category | Tools |
 |---|---|
 | **HPC & Environment** | Linux · Bash · Slurm · Conda |
-| **Bioinformatics** | Seurat · Monocle3 · SurfDock · Ensembl · Jupyter Notebook/Lab · GitHub |
+| **Bioinformatics** | Seurat · Monocle3 · SurfDock · Ensembl · Jupyter Notebook/Lab |
+| **Protein Design** | Germinal · Alphafold |
 | **Lab Informatics** | SnapGene · Benchling · CellProfiler · FlowLogic · Spotfire · eLabJournal |
 | **CRISPR Design** | CRISPOR · CHOPCHOP |
 | **Chemistry** | ChemSketch |
