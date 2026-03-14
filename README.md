@@ -46,7 +46,7 @@ My name is Thomas Schrauwen, I have four years of industry experience in stem ce
 
 ### 🧬 MSc Research Intern — Bioinformatics
 **Institute of Biology Leiden (IBL), Leiden University** · *Jan 2025 – Jul 2025* · Leiden, Netherlands
-> Supervised by Prof. Marcel Schaaf and Dr. Bastienne Vriesendorp
+> Supervised by Prof. Marcel Schaaf and Dr. Bastienne Vriesendorp · 8.5/10
 
 - Performed scRNA-seq analysis in R (Seurat, Bioconductor) to characterise glucocorticoid-induced transcriptional responses in zebrafish.
 - Conducted protein-ligand docking on an HPC cluster (Linux, Slurm, Conda) to predict novel glucocorticoid receptor-binding candidates.
