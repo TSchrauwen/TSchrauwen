@@ -1,71 +1,70 @@
-# Thomas Schrauwen
-
 <div align="center">
 
-**MSc Molecular Genetics & Biotechnology · Leiden University**
+# Thomas Schrauwen
 
-🇳🇱 Leiden, Netherlands &nbsp;|&nbsp; 🇩🇰 Kongens Lyngby, Denmark (current)
+**MSc Molecular Genetics & Biotechnology**
 
-[![Email](https://img.shields.io/badge/Email-schrauwenthomas96%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:schrauwenthomas96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Schrauwen-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thomas-schrauwen)
-[![GitHub](https://img.shields.io/badge/GitHub-thomas--schrauwen-181717?style=flat-square&logo=github)](https://github.com/thomas-schrauwen)
+🇳🇱 Leiden, Netherlands · 🇩🇰 Kongens Lyngby, Denmark *(current)*
+
+[![Email](https://img.shields.io/badge/Email-schrauwenthomas96%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:schrauwenthomas96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Schrauwen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-schrauwen)
+[![GitHub](https://img.shields.io/badge/GitHub-thomas--schrauwen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thomas-schrauwen)
 
 </div>
 
 ---
 
-Life-science professional with four years of industry and academic experience in **stem cell biology**, **molecular engineering**, and **computational biology**. Currently applying generative AI to de novo nanobody design against migraine-associated GPCRs at DTU Denmark, combining deep wet-lab expertise with data-driven approaches to therapeutic discovery.
+## 👤 About
 
-**Research interests:**
-- *Computational:* Generative AI for protein/antibody design, scRNA-seq analysis, protein-ligand docking, machine learning in biology
-- *Experimental:* Stem cell biology (iPSCs, EpiSCs), CRISPR/Cas9 genome editing, high-throughput cell-based assays, bioreactor culture systems
+Life-science professional with four years of industry and academic experience in stem cell biology, molecular engineering, and computational biology. Currently applying generative AI to de novo nanobody design against migraine-associated GPCRs at DTU Denmark, combining deep wet-lab expertise with data-driven approaches to therapeutic discovery.
+
+| 🧬 Experimental | 💻 Computational |
+|---|---|
+| Stem cell biology (iPSCs, EpiSCs) | Generative AI for protein & antibody design |
+| CRISPR/Cas9 genome editing | scRNA-seq analysis |
+| High-throughput cell-based assays | Protein-ligand docking |
+| Bioreactor culture systems | Machine learning in biology |
 
 ---
 
 ## 🎓 Education
 
-- **2024 – Present** &nbsp; MSc Molecular Genetics and Biotechnology — *Leiden University*, Netherlands
-- **2017 – 2021** &nbsp; BSc Chemistry, specialisation in Biochemistry — *Artesis Plantijn University of Applied Sciences*, Antwerp, Belgium
+| Year | Degree | Institution |
+|---|---|---|
+| 2024 – Present | MSc Molecular Genetics and Biotechnology | Leiden University, Netherlands |
+| 2017 – 2021 | BSc Chemistry, specialisation in Biochemistry | Artesis Plantijn University of Applied Sciences, Belgium |
 
 ---
 
 ## 💼 Experience
 
-### 🔬 MSc Research Intern · Digital Biotechnology Lab
-**Technical University of Denmark (DTU)** &nbsp;|&nbsp; Dept. of Bioengineering &nbsp;|&nbsp; *Mar 2026 – Present*
+### 🔬 MSc Research Intern — Digital Biotechnology Lab
+**Technical University of Denmark (DTU)** · Dept. of Bioengineering · *Mar 2026 – Present*
 > Supervised by Dr. Timothy Jenkins · Kongens Lyngby, Denmark
 
 - Designing nanobodies de novo against migraine-associated GPCRs using generative AI, integrating protein language models and structure-based deep learning for candidate generation and in silico evaluation.
 - Utilising AlphaFold, PDB, and HPC infrastructure to support structure-guided binder design workflows.
 
----
+### 🧬 MSc Research Intern — Bioinformatics
+**Institute of Biology Leiden (IBL), Leiden University** · *Jan 2025 – Jul 2025* · Leiden, Netherlands
 
-### 🧬 MSc Research Intern · Bioinformatics
-**Institute of Biology Leiden (IBL), Leiden University** &nbsp;|&nbsp; *Jan 2025 – Jul 2025*
-> Leiden, Netherlands
+- Performed scRNA-seq analysis in R (Seurat, Bioconductor) to characterise glucocorticoid-induced transcriptional responses in zebrafish.
+- Conducted protein-ligand docking on an HPC cluster (Linux, Slurm, Conda) to predict novel glucocorticoid receptor-binding candidates.
 
-- Performed **scRNA-seq** analysis in R (Seurat, Bioconductor) to characterise glucocorticoid-induced transcriptional responses in zebrafish.
-- Conducted **protein-ligand docking** on an HPC cluster (Linux, Slurm, Conda) to predict novel glucocorticoid receptor-binding candidates.
-
----
-
-### 🔬 Assistant Scientist
-**Meatable** &nbsp;|&nbsp; *Mar 2023 – Nov 2025* &nbsp;|&nbsp; Leiden, Netherlands
+### 🧫 Assistant Scientist
+**Meatable** · *Mar 2023 – Nov 2025* · Leiden, Netherlands
 
 - Cultured porcine and bovine cell lines — primary cells, iPSCs, and EpiSCs — across 2D and 3D suspension formats (shaker flasks, 96-well plates, Ambr250 bioreactors).
-- Executed RNA- and DNA-based reprogramming experiments, characterising newly derived lines from initial induction to stable establishment using molecular and imaging assays.
+- Executed RNA- and DNA-based reprogramming experiments, characterising newly derived lines from induction to stable establishment using molecular and imaging assays.
 - Designed plasmid constructs in SnapGene and Benchling for cloning workflows.
 - **Led a project** establishing a high-throughput screening workflow for 3D stem cell aggregates in suspension, achieving **20× greater throughput** for media development and cell line adaptation.
 
-### Cell Culture Technician
-**Meatable** &nbsp;|&nbsp; *Mar 2022 – Mar 2023* &nbsp;|&nbsp; Leiden, Netherlands
-
----
+**Cell Culture Technician** · *Mar 2022 – Mar 2023*
 
 ### 🏥 Research Intern
-**Centre for Medical Genetics, University of Antwerp** &nbsp;|&nbsp; *Feb 2021 – May 2021* &nbsp;|&nbsp; Antwerp, Belgium
+**Centre for Medical Genetics, University of Antwerp** · *Feb 2021 – May 2021* · Antwerp, Belgium
 
-- Contributed to optimising a **CRISPR/Cas9 workflow** for introducing pathogenic Brugada Syndrome mutations into hiPSCs.
+- Contributed to optimising a CRISPR/Cas9 workflow for introducing pathogenic Brugada Syndrome mutations into hiPSCs.
 - Screened gRNA candidates via nucleofection to identify optimal InDel-forming sequences, confirmed by Sanger sequencing and gel electrophoresis.
 - Techniques: gRNA design, nucleofection, PCR, Sanger sequencing, gel electrophoresis, DNA/RNA isolation, mycoplasma detection.
 
@@ -73,16 +72,21 @@ Life-science professional with four years of industry and academic experience in
 
 ## 🛠 Skills
 
-### 💻 Software & Computational Tools
-`Linux` `Bash` `Slurm` `Conda` `GitHub` `Jupyter Notebook/Lab`
-`Seurat` `Monocle3` `SurfDock` `Ensembl`
-`SnapGene` `Benchling` `CellProfiler` `FlowLogic` `Spotfire` `eLabJournal`
-`CRISPOR` `CHOPCHOP` `ChemSketch`
+### 💻 Computational & Software
 
-### 🧪 Laboratory Techniques
+| Category | Tools |
+|---|---|
+| **HPC & Environment** | Linux · Bash · Slurm · Conda |
+| **Bioinformatics** | Seurat · Monocle3 · SurfDock · Ensembl · Jupyter Notebook/Lab · GitHub |
+| **Lab Informatics** | SnapGene · Benchling · CellProfiler · FlowLogic · Spotfire · eLabJournal |
+| **CRISPR Design** | CRISPOR · CHOPCHOP |
+| **Chemistry** | ChemSketch |
+
+### 🧪 Laboratory
+
 | Category | Techniques |
 |---|---|
-| **Cell Biology** | Adherent & suspension (stem) cell culture, iPSC/EpiSC handling, colony picking (manual & automated), Ambr250 bioreactor operation |
+| **Cell Biology** | Adherent & suspension stem cell culture, iPSC/EpiSC handling, colony picking (manual & automated), Ambr250 bioreactor operation |
 | **Molecular Biology** | Transfection, nucleofection, qPCR, PCR, Sanger sequencing, Gibson Assembly, plasmid design, DNA/RNA isolation |
 | **Analytics** | Gel & capillary electrophoresis, immunofluorescence, flow cytometry, fluorescent/luminescent assays |
 | **Instrumentation** | GC, HPLC, AAS, AES, spectrophotometry, 2D/3D cell imaging |
@@ -90,17 +94,8 @@ Life-science professional with four years of industry and academic experience in
 | **Computational** | scRNA-seq analysis, protein-ligand docking, HPC cluster usage |
 
 ### 🌍 Languages
-| Language | Proficiency |
-|---|---|
-| Dutch | Native |
-| English | Fluent |
-| French | Proficient |
 
----
-
-## 📬 Contact
-
-Feel free to reach out via [email](mailto:schrauwenthomas96@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/thomas-schrauwen).
+`Dutch — Native` &nbsp; `English — Fluent` &nbsp; `French — Proficient`
 
 ---
 
