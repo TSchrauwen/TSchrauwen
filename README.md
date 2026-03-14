@@ -39,14 +39,15 @@ Life-science professional with four years of industry and academic experience in
 ## 💼 Experience
 
 ### 🔬 MSc Research Intern — Digital Biotechnology Lab
-**Technical University of Denmark (DTU)** · Dept. of Bioengineering · *Mar 2026 – Present*
-> Supervised by Dr. Timothy Jenkins · Kongens Lyngby, Denmark
+**Technical University of Denmark (DTU)** · Dept. of Bioengineering · *Mar 2026 – Present* · Kongens Lyngby, Denmark
+> Supervised by Dr. Timothy Jenkins 
 
 - Designing nanobodies de novo against migraine-associated GPCRs using generative AI, integrating protein language models and structure-based deep learning for candidate generation and in silico evaluation.
 - Utilising AlphaFold, PDB, and HPC infrastructure to support structure-guided binder design workflows.
 
 ### 🧬 MSc Research Intern — Bioinformatics
 **Institute of Biology Leiden (IBL), Leiden University** · *Jan 2025 – Jul 2025* · Leiden, Netherlands
+> Supervised by Prof. Marcel Schaaf and Dr. Bastienne Vriesendorp
 
 - Performed scRNA-seq analysis in R (Seurat, Bioconductor) to characterise glucocorticoid-induced transcriptional responses in zebrafish.
 - Conducted protein-ligand docking on an HPC cluster (Linux, Slurm, Conda) to predict novel glucocorticoid receptor-binding candidates.
