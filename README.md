@@ -7,7 +7,7 @@
 🇳🇱 Leiden, Netherlands · 🇩🇰 Kongens Lyngby, Denmark *(current)*
 
 [![Email](https://img.shields.io/badge/Email-schrauwenthomas96%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:schrauwenthomas96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Schrauwen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-schrauwen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Schrauwen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-schrauwen-b5676692/)
 [![GitHub](https://img.shields.io/badge/GitHub-TSchrauwen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TSchrauwen)
 
 </div>
