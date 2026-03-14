@@ -16,7 +16,7 @@
 
 ## 👤 About
 
-Life-science professional with four years of industry and academic experience in stem cell biology, molecular engineering, and computational biology. Currently applying generative AI to de novo nanobody design against migraine-associated GPCRs at DTU Denmark, combining deep wet-lab expertise with data-driven approaches to therapeutic discovery.
+My name is Thomas Schrauwen, I have four years of industry and academic experience in stem cell biology, molecular engineering, and computational biology. In 2024, I started a MSc in Molecular Genetics & Biotechnology in combination with my full-time job in the cultivated meat sector.Currently, I am applying generative AI for de novo nanobody design against migraine-associated GPCRs at DTU Denmark, combining deep wet-lab expertise with data-driven approaches to therapeutic discovery.
 
 | 🧬 Experimental | 💻 Computational |
 |---|---|
